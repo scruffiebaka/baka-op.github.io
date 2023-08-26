@@ -1,0 +1,40 @@
+baseURL = 'https://baka-op.github.io'
+languageCode = 'en-us'
+title = 'Baka'
+theme = 'PaperMod'
+enableEmoji = true
+
+[params]
+ShowShareButtons = true
+ShareButtons = [ "linkedin", "twitter", "reddit"]
+
+[params.homeInfoParams]
+Title = "Baka"
+Content = "Hey there! I'm Baka, a highschool student and computer science enthusiast. My hobbies encapsulate writing, music, games and their development, script/tool/mod creation."
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/baka-op-269565230/"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/B2YWTBxmYG"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/@_bakaa_"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/da_real_baka"
+
+[[params.socialIcons]]
+name = "itchio"
+url = "https://bakaop.itch.io"
+
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 10
