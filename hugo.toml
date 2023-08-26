@@ -48,5 +48,3 @@ weight = 20
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
-[params]
-env = "production"
