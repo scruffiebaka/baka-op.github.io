@@ -1,3 +1,9 @@
+---
+title: "My opinion on Web 3.0"
+date: 2023-09-17T14:50:10+05:30
+draft: false
+---
+
 # My opinion on Web 3.0, and why I think it could be a bluff
 
 Recently "Web 3.0" has came into the spotlight, and its still in development. I did thorough research on this specific topic, and its definition states that Web 3.0 is a concept of apparently "immersing yourself" with traditional web along with newer concepts like control on personal data, cryptocurrency, and decentralized records. The main difference is, Web 2.0 (which we currently are using) is based on actual money that is circulated by the governments and can be named as currencies across different countries, on the other Web 3.0 will be based on a DeFi model, or decentralized finance model, where the money is completely decentralized (not owned by a government or organization).
