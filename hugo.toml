@@ -13,6 +13,10 @@ Title = "Baka"
 Content = "Hey there! I'm Baka, a 15 y.o. highschool student and computer science enthusiast. My hobbies encapsulate writing, music, games and their development, script/tool/mod creation."
 
 [[params.socialIcons]]
+name = "github"
+url = "https://www.github.com/Baka-OP/"
+
+[[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/baka-op-269565230/"
 
