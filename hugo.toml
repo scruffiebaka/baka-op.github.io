@@ -13,28 +13,24 @@ Title = "Baka"
 Content = "Hey there! I'm Baka, a 15 y.o. highschool student and computer science enthusiast. My hobbies encapsulate writing, music, games and their development, script/tool/mod creation."
 
 [[params.socialIcons]]
+name = "itchio"
+url = "https://bakaop.itch.io"
+
+[[params.socialIcons]]
 name = "github"
 url = "https://www.github.com/Baka-OP/"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/baka-op-269565230/"
-
-[[params.socialIcons]]
-name = "discord"
-url = "https://discord.gg/B2YWTBxmYG"
 
 [[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/@_bakaa_"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/da_real_baka"
+name = "discord"
+url = "https://discord.com/invite/WseNACbmQx"
 
 [[params.socialIcons]]
-name = "itchio"
-url = "https://bakaop.itch.io"
+name = "twitter"
+url = "https://twitter.com/da_real_baka"
 
 [[menu.main]]
 identifier = "portfolio"
