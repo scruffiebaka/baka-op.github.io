@@ -10,7 +10,7 @@ ShareButtons = [ "linkedin", "twitter", "reddit"]
 
 [params.homeInfoParams]
 Title = "Baka"
-Content = "Hey there! I'm Baka, a 15 y.o. highschool student and computer science enthusiast. My hobbies encapsulate writing, music, games and their development, script/tool/mod creation."
+Content = "Hey there! I'm Baka, a 16 y.o. highschool student and computer science enthusiast. My hobbies encapsulate writing, music, games and their development, script/tool/mod creation."
 
 [[params.socialIcons]]
 name = "itchio"
