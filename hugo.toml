@@ -32,6 +32,10 @@ url = "https://discord.com/invite/WseNACbmQx"
 name = "twitter"
 url = "https://twitter.com/da_real_baka"
 
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/its.baakaa"
+
 [[menu.main]]
 identifier = "portfolio"
 name = "Portfolio"
