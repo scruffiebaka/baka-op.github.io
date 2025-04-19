@@ -33,6 +33,7 @@ For any new technological paradigm to succeed, user adoption is crucial. Web 2.0
 This will certainly sound weird and skeptical, but Web 2.0 relies heavily on advertising revenue. Web 3.0's decentralized nature threatens the existing business models, which could lead to resistance from powerful tech giants. The economic incentives to maintain the status quo may slow down the transition to Web 3.0.
 
 ----
+
 Some more obvious issues include scalability issues, and most importantly energy consumption. Another issue is interference with legality, governments worldwide are still formulating regulations for blockchain and decentralized technologies. This uncertainty can create legal challenges for users and businesses. 
 Money exchanged on the blockchain is also irreversible. The immutability of blockchain basically makes it prone to frauds and scams. 
 

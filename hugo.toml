@@ -1,55 +1,84 @@
 baseURL = 'https://baka-op.github.io'
 languageCode = 'en-us'
 title = 'Baka'
-theme = 'PaperMod'
+theme = 'hugo-coder'
 enableEmoji = true
 
+[pagination]
+pagerSize = 6
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
-ShowShareButtons = true
-ShareButtons = [ "linkedin", "twitter", "reddit"]
+author = "ScruffieBaka"
+description = "Scruffie's personal website"
+keywords = "blog,developer,personal"
+info = ["Programming", "Music", "Modding"]
+avatarURL = "images/avatar.jpg"
+dateFormat = "January 2, 2006"
+since = 2023
+rtl = false
+colorScheme = "auto"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
 
-[params.homeInfoParams]
-Title = "Baka"
-Content = "Hey there! I'm Baka, a 16 y.o. highschool student and computer science enthusiast. My hobbies encapsulate writing, music, games and their development, script/tool/mod creation."
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
 
-[[params.socialIcons]]
-name = "itchio"
-url = "https://bakaop.itch.io"
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
-[[params.socialIcons]]
-name = "github"
-url = "https://www.github.com/Baka-OP/"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url  = "posts/welcome"
+[[menu.main]]
+  name = "Posts"
+  weight = 2
+  url = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
 
-[[params.socialIcons]]
-name = "youtube"
-url = "https://www.youtube.com/@_bakaa_"
 
-[[params.socialIcons]]
-name = "discord"
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/scruffiebaka"
+
+[[params.social]]
+name = "Discord"
+icon = "fa-brands fa-discord fa-2x"
+weight = 1
 url = "https://discord.com/invite/WseNACbmQx"
 
-[[params.socialIcons]]
-name = "twitter"
+[[params.social]]
+name = "Itch.io"
+icon = "fa-brands fa-itch-io fa-2x"
+weight = 1
+url = "https://bakaop.itch.io/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-twitter fa-2x"
+weight = 1
 url = "https://twitter.com/da_real_baka"
 
-[[menu.main]]
-identifier = "portfolio"
-name = "Portfolio"
-url = "/portfolio/"
-weight = 10
-
-[[menu.main]]
-identifier = "archives"
-name = "Archives"
-url = "/archives/"
-weight = 20
-
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 30
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
-
+[[params.social]]
+name = "Youtube"
+icon = "fa-brands fa-youtube fa-2x"
+weight = 1
+url = "https://www.youtube.com/@_bakaa_"

@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baka</title>
-    <link>https://baka-op.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Baka</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Aug 2023 17:01:10 +0530</lastBuildDate><atom:link href="https://baka-op.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 14:50:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My opinion on Web 3.0</title>
+      <link>http://localhost:1313/posts/web-3-opinion/</link>
+      <pubDate>Sun, 17 Sep 2023 14:50:10 +0530</pubDate>
+      <guid>http://localhost:1313/posts/web-3-opinion/</guid>
+      <description>&lt;h1 id=&#34;my-opinion-on-web-30-and-why-i-think-it-could-be-a-bluff&#34;&gt;&#xA;  My opinion on Web 3.0, and why I think it could be a bluff&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#my-opinion-on-web-30-and-why-i-think-it-could-be-a-bluff&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Recently &amp;ldquo;Web 3.0&amp;rdquo; has came into the spotlight, and its still in development. I did thorough research on this specific topic, and its definition states that Web 3.0 is a concept of apparently &amp;ldquo;immersing yourself&amp;rdquo; with traditional web along with newer concepts like control on personal data, cryptocurrency, and decentralized records. The main difference is, Web 2.0 (which we currently are using) is based on actual money that is circulated by the governments and can be named as currencies across different countries, on the other Web 3.0 will be based on a DeFi model, or decentralized finance model, where the money is completely decentralized (not owned by a government or organization).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome!</title>
-      <link>https://baka-op.github.io/posts/welcome/</link>
+      <link>http://localhost:1313/posts/welcome/</link>
       <pubDate>Sat, 26 Aug 2023 17:01:10 +0530</pubDate>
-      
-      <guid>https://baka-op.github.io/posts/welcome/</guid>
-      <description>Introduction Welcome to my website. Here, I will usually post Devlogs, Tutorials, and random papers about programming and computer science in general.
-About I&amp;rsquo;m a 15 year old student who&amp;rsquo;s just keenly interested in game and software development. I&amp;rsquo;m also interested in music and musical theory even though I&amp;rsquo;m bad at composing stuff. I consider myself to be a slow but steady learner who can grasp stuff pretty well. I also have a constant hunger of knowledge and the new techs.</description>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my website. Here, I will usually post &lt;strong&gt;Devlogs&lt;/strong&gt;, &lt;strong&gt;Tutorials&lt;/strong&gt;, and random papers about &lt;strong&gt;programming and computer science&lt;/strong&gt; in general.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a 16-year-old student keenly interested in video games and software development. I&amp;rsquo;m also interested in music and musical theory even though I&amp;rsquo;m bad at composing stuff. I consider myself to be a slow but steady learner who can understand stuff pretty well. I also love checking out new entries in the tech world. Even though a minimalist, I love checking out the hype train once in a while.&lt;/p&gt;</description>
     </item>
-    
-    
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;W.I.P&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
