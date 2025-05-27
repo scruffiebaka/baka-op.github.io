@@ -8,7 +8,7 @@ draft: false
 Welcome to my website. Here, I will usually post **Devlogs**, **Tutorials**, and random papers about **programming and computer science** in general.
 
 ## About
-I'm a 16-year-old student keenly interested in video games and software development. I'm also interested in music and musical theory even though I'm bad at composing stuff. I consider myself to be a slow but steady learner who can understand stuff pretty well. I also love checking out new entries in the tech world. Even though a minimalist, I love checking out the hype train once in a while.
+I'm a 17-year-old student keenly interested in video games and software development. I'm also interested in music and musical theory even though I'm bad at composing stuff. I consider myself to be a slow but steady learner who can understand stuff pretty well. I also love checking out new entries in the tech world. Even though a minimalist, I love checking out the hype train once in a while.
 ## Skillset
 Since I'm still a student I don't have a vast skill-set. I started programming when I was about 11 years old, in the C# language. Since then I have a moderate experience in Unity, even though I don't have a completed project yet. I can also do Python and a little bit of Xamarin.
 I also used to be a Minecraft forge modder. Because of that I also have a moderate experience with Java.
